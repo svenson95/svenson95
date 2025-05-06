@@ -5,7 +5,7 @@
   <a href="https://stackoverflow.com/users/12340357/svenson95">
     <img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&color=orange&logo=stackoverflow&logoColor=white" alt="stackoverflow Badge"/>
   </a>
-  <a href="https://svenson95.github.io/sb-portfolio/">
+  <a href="https://svenb-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge" alt="Portfolio Badge"/>
   </a>
 </div>
